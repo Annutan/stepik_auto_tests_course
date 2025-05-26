@@ -1,4 +1,4 @@
 # stepik_auto_tests_course
 Домашние задания по обучению
 
-https://stepik.org/course/575/info
+Это репозиторий для хранения домашних работ по курсу автоматическое тестирование на степике, https://stepik.org/course/575/info
